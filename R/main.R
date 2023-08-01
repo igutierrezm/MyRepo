@@ -5,3 +5,7 @@ suma <- function(x, y) {
 resta <- function(x, y) {
   x - y
 }
+
+multiplicacion <- function(x, y) {
+  x * y
+}
